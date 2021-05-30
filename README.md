@@ -1,4 +1,4 @@
-# moveit-next
+# moveit-next - RocketSeat
 
 <p>Move.it é um projeto desenvolvido na Next Level Week, uma semana com aulas onde escolhi trilhar o REACT.
 O sistema web é desenvolvido com HTML, CSS, JavaScript, NodeJs e REACT.</p>
